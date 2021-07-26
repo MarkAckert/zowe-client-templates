@@ -1,6 +1,6 @@
 /**
  *
- * SPDX-License-Identifier: MIT License
+ * SPDX-License-Identifier: MIT
  *
  * The original repository for the VS Code Extension can be found here: https://github.com/microsoft/vscode-generator-code/tree/main/generators/app/templates/ext-command-ts
  *
